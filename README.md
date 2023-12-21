@@ -1,4 +1,6 @@
 Revolutionizing 3D Brain Tumor Segmentation with SLMSA Network for Transformative Neuro-Insights
+
+
 Overview
 This repository houses the code and resources for a groundbreaking project focused on advancing 3D brain tumor segmentation using the Short Long-Term Memory Self-Attention (SLMSA) network. The project's core methodology is based on a recently published paper dated February 16, 2023, accessible here. The SLMSA model represents a transformative approach, leveraging a transformer-based architecture to enhance the accuracy and efficiency of brain tumor segmentation in volumetric datasets.
 
